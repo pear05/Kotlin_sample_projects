@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="donuts">50 </integer>
+    <integer name="ice_cream_sandwiches">100</integer>
+    <integer name="froyo">200</integer>
+</resources>
